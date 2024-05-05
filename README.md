@@ -4,8 +4,8 @@ Dedicated. Full-stack Developer with experience in developing and deploying high
 
 Skills: NodeJs / Typescript / NestJs / ExpressJs / ReactJs / Next.js / PostgreSQL / MongoDB / Redis / Docker / and Git.
 
-- 🔭 I’m currently working on softbrand LTD 
-- 🌱 I’m currently learning AWS 
+- 🔭 I’m currently working on wenexus.io
+
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Application, Database,  
 
