@@ -1,24 +1,130 @@
-### Hi there 👋, I'm Jahangir alam
-#### Full-Stack Software Developer
-Dedicated. Full-stack Developer with experience in developing and deploying high-quality Scalable, Performing web applications with proven ability to work independently and as part of a team. Strong understanding of front-end and back-end technologies including Javascript (NodeJs), Typescript, NestJs, ExpressJs, ReactJs, Next.js, PostgreSQL, MongoDB, Redis, Docker, and Git. Working with a team of engineers to improve the performance of the company's Backend system. Passionate about staying current with industry trends and continuously enhancing skills to drive project success.
+# Hi there 👋, I'm Md. Jahangir Alam
 
-Skills: NodeJs / Typescript / NestJs / ExpressJs / ReactJs / Next.js / PostgreSQL / MongoDB / Redis / Docker / and Git.
+### Software Developer | Backend Developer | SaaS, Marketplace & Shopify Solutions
 
-- 🔭 I’m currently working on wenexus.io
+I'm a Software Developer with 4+ years of experience building scalable backend systems, multi-vendor marketplaces, SaaS platforms, and Shopify applications.
 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Application, Database,  
+My primary focus is designing reliable, maintainable, and production-ready systems using modern technologies and clean architecture principles.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangir83)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-jahangir-alam83//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdjahangir.alam.92372446/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14117173/md-jahangir-alam)  
+## 🚀 About Me
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+- 🔭 Currently building Shopify applications at WeNexus
+- 💻 Specialized in Backend Development with NestJS & Node.js
+- 🏗️ Experienced in System Design & Software Architecture
+- 🛒 Building Marketplace & E-commerce Platforms
+- ☁️ Working with Cloud Deployment, Docker & CI/CD
+- 📚 Continuously learning and improving engineering practices
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahangir83)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir83)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangir83&show_icons=true&count_private=true)  
+### Backend
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jahangir83)  
+- Node.js
+- NestJS
+- TypeScript
+- Express.js
 
+### Database
+
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- TypeORM
+- Redis
+
+### Frontend
+
+- Next.js
+- React.js
+- JavaScript
+
+### APIs & Communication
+
+- REST API
+- GraphQL
+- WebSocket
+
+### DevOps & Tools
+
+- Docker
+- Git
+- GitHub
+- CI/CD
+
+### Domains
+
+- SaaS Platforms
+- Shopify Apps
+- Multi-Vendor Marketplaces
+- Payment & Wallet Systems
+- RBAC & Authentication
+- Multi-Tenant Architectures
+
+---
+
+## 📌 Featured Projects
+
+### OfferX
+
+Shopify volume discount application with campaign management, Shopify Functions integration, revenue-based billing, and order attribution systems.
+
+**Stack:** NestJS, PostgreSQL, Prisma ORM, GraphQL, Shopify Functions
+
+### FlashX
+
+Merchant-focused Shopify application for bulk price editing, scheduling, and pricing automation.
+
+**Stack:** NestJS, Shopify API, PostgreSQL
+
+### Advance IT Platform
+
+Large-scale multi-vendor business platform featuring payment processing, wallet management, referral systems, RBAC, and real-time workflows.
+
+**Stack:** NestJS, Next.js, PostgreSQL, Redis, WebSocket
+
+### UnifyHubX
+
+Marketplace ecosystem with advanced vendor, product, order, and customer management.
+
+**Stack:** NestJS, PostgreSQL, Prisma ORM
+
+### ESAS Education Center
+
+Education management platform covering admissions, scheduling, billing, and reporting.
+
+**Stack:** NestJS, Next.js, PostgreSQL
+
+---
+
+## 📈 What I Enjoy Building
+
+- Scalable Backend Systems
+- SaaS Products
+- Shopify Applications
+- Marketplace Platforms
+- Payment & Wallet Solutions
+- Real-Time Applications
+- Clean Architecture & System Design
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangir83&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir83&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/md-jahangir-alam83/
+- Email: jahanagir.alam.dev83@gmail.com
+
+---
+
+⭐ I enjoy building software that solves real business problems and scales reliably in production.
