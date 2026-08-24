@@ -10,7 +10,7 @@ My primary focus is designing reliable, maintainable, and production-ready syste
 
 ## 🚀 About Me
 
-- 🔭 Currently building Shopify applications at WeNexus
+- 🔭 Currently building Shopify applications at REDCIRCLE
 - 💻 Specialized in Backend Development with NestJS & Node.js
 - 🏗️ Experienced in System Design & Software Architecture
 - 🛒 Building Marketplace & E-commerce Platforms
